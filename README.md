@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Krishnansh 👋
 
-<!--
-**KrishnanshSood/KrishnanshSood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build agentic AI systems and care about whether they actually work, not just whether they demo well.
 
-Here are some ideas to get you started:
+- 🎓 3rd-year EEE at **BITS Pilani** (CGPA 8.05)
+- 💼 Intern @ **Wells Fargo**
+- 🔬 Research: multi-agent code-security analysis (paper/patent pending)
+- 🛠️ Building: agentic workflows over financial documents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Open to:** conversations about AI agents, finance automation, or agentic workflows.
+
+**Reach me:**
+- Email: f20230379@pilani.bits-pilani.ac.in | krishnansh.sood@gmail.com
+- LinkedIn: https://www.linkedin.com/in/krishnansh-sood/
